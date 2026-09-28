@@ -1,7 +1,4 @@
 # QR Code Component
-
-A small frontend practice project based on the [Frontend Mentor QR code component challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). It is a place to build and refine software development skills through hands-on work and iteration.
-
 ## Project
 
 The page displays a QR code and short message in a centered card. It is built with plain HTML and CSS, with no build tools or JavaScript required.
